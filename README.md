@@ -37,3 +37,6 @@ To get started, clone this repository and navigate to the project directory:
 ```bash
 git clone https://github.com/letizialib/Deep-learning-with-Python.git
 cd Deep-learning-with-Python
+
+## Contributions
+Contributions are welcome! If you have suggestions for improving this summary, please fork the repository, make your changes, and submit a pull request. Please note that all contributions will be reviewed before being merged, ensuring that the integrity of the project is maintained.
