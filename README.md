@@ -35,5 +35,5 @@ In this project, I have compiled the most important insights from the book, focu
 To get started, clone this repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/letizialib/deep-learning-summary.git
-cd deep-learning-summary
+git clone https://github.com/letizialib/Deep-learning-with-Python.git
+cd Deep-learning-with-Python
